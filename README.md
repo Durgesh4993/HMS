@@ -13,4 +13,4 @@
 
 <img width="959" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/9ba1f19a-f074-441e-9ac2-a4ee1af2dd23">
 
-## 
+## ProtoType (Model):
