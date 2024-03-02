@@ -14,3 +14,27 @@
 <img width="959" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/9ba1f19a-f074-441e-9ac2-a4ee1af2dd23">
 
 ## ProtoType (Model):
+
+
+## Main Features:
+
+- APPOINTMENT
+- CONSULTATION 
+- DOCTOR'S LOGIN
+- ADMINISTRATOR LOGIN
+
+---
+
+> Appointment
+
+In our website we allowing patients to book conveniently/appointment from anywhere. It reduces administrative burden, minimizing phone calls and paperwork. Patients can select preferred time slots, reducing waiting times and optimizing clinic efficiency. Automated reminders help reduce no-shows, improving overall appointment adherence. This software enhances patient satisfaction and improves overall clinic management.
+
+<img width="959" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/3501217e-e916-48cb-ba59-1ffacb5f63dd">
+
+---
+
+> Consultation
+
+A consultation is a meeting with a doctor or other expert to discuss a problem and get advice. In our website we provide two different ways for consultation, through Text and Video. Trough our website patient get convenient access, reduced waiting times, comprehensive information, remote monitoring, and cost efficiency enhance patient care and engagement.
+
+<img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/d6dc83fa-63ee-4e7e-aeca-3ea2d6c9555d">
