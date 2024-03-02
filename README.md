@@ -38,3 +38,53 @@ In our website we allowing patients to book conveniently/appointment from anywhe
 A consultation is a meeting with a doctor or other expert to discuss a problem and get advice. In our website we provide two different ways for consultation, through Text and Video. Trough our website patient get convenient access, reduced waiting times, comprehensive information, remote monitoring, and cost efficiency enhance patient care and engagement.
 
 <img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/d6dc83fa-63ee-4e7e-aeca-3ea2d6c9555d">
+
+---
+
+> Doctor's Login
+
+On the other hand, the user has full access level regarding the patient’s section. And just like that, the user can also manage pharmacy records as well as inventories and laboratory reports. Even though the features are a bit limited to the employee/doctors, the selected ones are important that plays a vital role in maintaining the system. Not to get confused by the term employee management with a doctor as both of them are kind of the same for the system. The only thing that differentiates them is their assigned department. The other department’s employees as well as doctors can capture and set vitals and other lab reports of the patient. Besides all of these, the employee members can view their respective payroll reports from the payroll section. Additionally, the payroll receipt contains tax information and extra notes too.
+
+In addition to it, the employees can also view their profiles and update them. Last but not least, a clean and simple dashboard is presented with various color combinations for a greater user experience while using this Online Hospital Management System.
+
+<img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/68743f77-ce8d-42b7-a90a-3edd0cc0a964">
+<img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/68ffaf7f-9254-4385-bd02-05599486b766">
+
+---
+
+> Administrator Login
+
+An admin has full control over the system. He/she can manage patients, employees, accounting, and so on. Here, each and every section has its own respective details such as name, and other important details. Here, an admin can add patient records directly by filling up the required forms. During the patient registration, an admin has to provide details such as name, address, contact, age with patient type, and ailment. With it, the administrator can also manage staff members for the system. For adding an employee/doctor, the user has to provide names and set up login credentials. Here, each and every employee will have their own unique id. Which is automatically created by the system during the registration process. Talking about the patient management section, the system users can also manage patient transfer and discharge records.
+
+<img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/8dbeec9e-5006-4a65-8d35-5e09e87dfb20">
+<img width="960" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/68c23536-006b-488b-8e53-5192a7eb8fbd">
+
+---
+
+## Additional Features:
+- Admin/Employee Panel
+- Patient Management
+- Transfer, Discharge Patient
+- Employee Management
+- Assign Departments
+- Transfer Employees
+- Medicine Management
+- Prescriptions
+- Accounting – Payable and Receivable
+- Inventory Management
+- Assets Management
+- In and Out Patient Records
+- Medical Records
+- Patient Lab Test and Results
+- Manage Patient’s Vitals
+- Lab Reports
+- Surgery Records
+- Surgery Equipment Records
+- Patient Medical Profile
+- Payroll Management
+- Print Payroll Receipt
+- Manage Vendors
+
+
+
+
