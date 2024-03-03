@@ -15,6 +15,7 @@
 
 ## ProtoType (Model):
 
+<img width="959" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/a0e22912-8ac2-4752-aff3-8c2310833a30">
 
 ## Main Features:
 
