@@ -94,7 +94,6 @@ An admin has full control over the system. He/she can manage patients, employees
 <tr>
 
 <td align="center" width="200"><pre><a href="https://www.linkedin.com/in/bindu-sree-kalivarapu-a1962722a/"><img height=150px src="https://github.com/Durgesh4993/HMS/assets/98798977/167d544f-194c-4321-83d5-d5acf6374af6" width="200" alt="Ananya Sharma" /><br><sub>Bindusree</sub></a><br>@bindu143</pre></td>
-<td align="center" width="200"><pre><a href="https://www.linkedin.com/in/ananya-sharma-8b3126281/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/0cfe52be-4828-4572-bfe7-772de68f1014" width="200" alt="Ananya Sharma" /><br><sub>Ananya Sharma</sub></a><br>@ananya03110</pre></td>
 <td align="center" width="200"><pre><a href="https://www.linkedin.com/in/karan2322/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/38cf1f24-82b2-497f-be2e-c113a47c0553" width="200" alt="GitHub Profile picture of karan2322" /><br><sub>Karan Sharma</sub></a><br>@karan2322</pre></td>
 <td align="center" width="200"><pre><a href="https://www.linkedin.com/in/arpit-verma-00a1a5259/"><img height=150px src="https://github.com/Durgesh4993/WebBuy/assets/98798977/8ce25925-0370-4b6e-8810-ab9c5def97d3" width="200" alt="GitHub Profile Picture of Arpit Verma"/><br><sub>Arpit Verma</sub></a><br>@Arpit0001</pre></td>
 
