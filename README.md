@@ -88,6 +88,12 @@ An admin has full control over the system. He/she can manage patients, employees
 
 ---
 
+## PPT Link
+[Click Here](https://1drv.ms/p/s!Ai3clvPgVnf0gcVaIWwfKxjdifeokw?e=1DQJuR)
+
+
+---
+
 ## Team Members:
 
 <table align="center">
