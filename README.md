@@ -2,6 +2,8 @@
 
 <img width="959" alt="image" src="https://github.com/Durgesh4993/HMS/assets/98798977/05b904bf-6b11-49c2-bfff-280cc3fa1cc1">
 
+[Presenation](https://1drv.ms/p/s!Ai3clvPgVnf0gcVaIWwfKxjdifeokw?e=1DQJuR)
+
 ## THEMES:
 
 > Healthcare
